@@ -1,0 +1,29 @@
+
+
+h1{
+background-color: rgb(13, 14, 13);color:rgb(150, 127, 255); text-align:center;font-family: Arial, Helvetica, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 32px
+;}
+body{
+background-image: url(bg);
+margin: 5px;
+
+
+}
+
+img{
+
+height: 200px ;
+width: 300px;
+display:flex;
+padding: 5px;
+}
+
+
+p{ 
+display: flex;
+font-size: 18px;
+color: rgb(0, 102, 255);
+
+
+
+}
